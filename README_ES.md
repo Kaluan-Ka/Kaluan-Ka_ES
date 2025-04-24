@@ -1,4 +1,4 @@
-# Kaluan Kaeté - Portafolio de Análisis de Datos
+# Kaluan Kaeté - Análisis de Datos
 
 Soy **Kaluan Kaeté**, en proceso de transición al área de **Análisis de Datos**, movido por la curiosidad de explorar datos y transformarlos en soluciones estratégicas. Tengo habilidades en herramientas como **Power BI**, **SQL** y **SAS**, con experiencia práctica en el tratamiento, análisis y visualización de datos.
 
